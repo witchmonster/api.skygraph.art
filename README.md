@@ -4,7 +4,6 @@ Preview communities: https://skygraph.art
 
 ## Before using this API
 For collaboration, contact @witch.monster. Ethical, non-commercial projects only.
-Using skygraph.art data without permission is a violation of the license.
 
 ### API Version 3.0
 https://v3.api.skygraph.art/version.json
